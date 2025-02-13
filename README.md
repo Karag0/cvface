@@ -1,8 +1,6 @@
-cvface
-
-WARNING: THIS SCRIPT WILL WORK ONLY IN DEBUGGING MODE
-
-Real-Time Hand and Face Tracking with Eye Angle Calculation
+# cvface
+**WARNING: THIS SCRIPT WILL WORK ONLY IN DEBUGGING MODE**  
+**Real-Time Hand and Face Tracking with Eye Angle Calculation**  
 
 This project demonstrates real-time hand and face tracking using MediaPipe and OpenCV. It detects hand landmarks, facial features (including eyes), and calculates the angle between the eyes. The output is displayed in fullscreen mode.
 Features:
