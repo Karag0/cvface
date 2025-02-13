@@ -1,7 +1,7 @@
 # cvface
 **WARNING: THIS SCRIPT WILL WORK ONLY IN DEBUGGING MODE**  
 **Real-Time Hand and Face Tracking with Eye Angle Calculation**  
-This project demonstration face, eyes and hands tracking using opencc and mediapipe libraries. 
+This project demonstration face, eyes and hands tracking using opencv and mediapipe libraries. 
 
 #### Features:
 - Hand landmark detection with connections.
